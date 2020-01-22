@@ -1,4 +1,4 @@
-# Nokia CIMD Protocol Client
+# Nokia CIMD Protocol Java Client
 
 ## What is CIMD?
 CIMD is a dedicated data exchange protocol for connecting application programs to the Nokia Artuse service center, as well the short message service center (SMSC) and the USSD center (USSDC).
